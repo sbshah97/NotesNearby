@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "872487687190",
+    "project_id": "notes-145708"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872487687190:android:57a106ac9abb1404",
+        "android_client_info": {
+          "package_name": "com.hrily.notesnearby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872487687190-6vdphom8u5t0eeiechdqg17es9csam30.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hrily.notesnearby",
+            "certificate_hash": "FD5E00C53CD1919F6C9423F1BEBA5AD7E1EF0E63"
+          }
+        },
+        {
+          "client_id": "872487687190-93crfoq4717qkkladvi0fq91cs65rh68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSTGUFcFDuYLqCsXDC79obOud8pEnybyk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

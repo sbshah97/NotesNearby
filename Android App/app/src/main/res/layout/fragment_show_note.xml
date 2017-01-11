@@ -1,0 +1,79 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.hrily.notesnearby.ShowNoteFragment">
+
+    <ScrollView
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:padding="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="240dp">
+
+            <TextView
+                android:id="@+id/show_note_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Title"
+                android:textColor="@android:color/background_dark"
+                android:padding="10dp"
+                android:textSize="40dp"/>
+
+            <TextView
+                android:id="@+id/show_note_desc"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Some Description"
+                android:textColor="@android:color/background_dark"
+                android:padding="10dp"
+                android:textSize="24dp"/>
+
+            <TextView
+                android:id="@+id/show_note_latlng"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" @ 0, 0"
+                android:textColor="#333"
+                android:padding="10dp"
+                android:textSize="20dp"/>
+
+            <ImageView
+                android:id="@+id/show_note_img"
+                android:layout_width="match_parent"
+                android:layout_height="260dp"
+                android:layout_weight="1"
+                android:layout_gravity="center_horizontal"
+                android:padding="12dp"/>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+    <Button
+        android:id="@+id/btn_navi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Navigate"
+        android:paddingLeft="20dp"
+        android:paddingRight="50dp"
+        android:drawableLeft="@drawable/ic_navi"
+        android:background="@color/colorPrimary"
+        android:textColor="#fff"/>
+
+    <Button
+        android:id="@+id/show_note_go_back"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Go Back"
+        android:background="@color/colorPrimaryDark"
+        android:textColor="#fff"
+        android:layout_alignParentBottom="true"/>
+
+</LinearLayout>
