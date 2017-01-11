@@ -6,14 +6,18 @@
 
 ## Mobile Applications
 
-* [Android]() 
-* [iOS]()
+* [Android](https://github.com/salman-bhai/NotesNearby/tree/master/Android%20App) 
+* [iOS](https://github.com/salman-bhai/NotesNearby/tree/master/iOS%20App)
 
 ## Documentation
 
-* Take a look at the [Wiki](https://github.com/Hrily/NotesNearby/wiki) for detailed documentation with respect to the App.
+* Take a look at the [Wiki](https://github.com/salman-bhai/NotesNearby/wiki) for detailed documentation with respect to the App.
 
-* The [Android](https://github.com/Hrily/NotesNearby/wiki/Android) and [iOS](https://github.com/Hrily/NotesNearby/wiki/iOS) dependencies and requirements can be found at their Wiki pages.
+* The [Android](https://github.com/salman-bhai/NotesNearby/wiki/Android) and [iOS](https://github.com/salman-bhai/NotesNearby/wiki/iOS) dependencies and requirements can be found at their Wiki pages.
+
+## Download
+
+* [Android apk](https://docs.google.com/uc?export=download&id=0B9boJdznIbrMbkplcHpyVmZ4a3M)
 
 ## Contribution
 
