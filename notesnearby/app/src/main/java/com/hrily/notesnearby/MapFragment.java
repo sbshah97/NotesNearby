@@ -1,7 +1,5 @@
 package com.hrily.notesnearby;
-//////////////
-// by hrily //
-//////////////
+
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.pm.PackageManager;

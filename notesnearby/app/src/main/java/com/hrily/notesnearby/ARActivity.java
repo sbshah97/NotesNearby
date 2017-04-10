@@ -1,7 +1,4 @@
 package com.hrily.notesnearby;
-//////////////
-// by hrily //
-//////////////
 
 import android.app.Activity;
 import android.content.Context;
@@ -28,9 +25,6 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by krzysztofjackowski on 24/09/15.
- */
 
 public class ARActivity extends Activity implements
         SurfaceHolder.Callback, OnLocationChangedListener, OnAzimuthChangedListener, View.OnClickListener{

@@ -1,7 +1,4 @@
 package com.hrily.notesnearby;
-//////////////
-// by hrily //
-//////////////
 
 import android.app.Activity;
 import android.app.ProgressDialog;
@@ -54,14 +51,6 @@ import java.util.Date;
 import java.util.concurrent.ThreadFactory;
 
 
-/**
- * A simple {@link Fragment} subclass.
- * Activities that contain this fragment must implement the
- * {@link AddNoteFragment.OnFragmentInteractionListener} interface
- * to handle interaction events.
- * Use the {@link AddNoteFragment#newInstance} factory method to
- * create an instance of this fragment.
- */
 public class AddNoteFragment extends Fragment implements ISpeechRecognitionServerEvents {
     // TODO: Rename parameter arguments, choose names that match
     // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER

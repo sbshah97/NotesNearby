@@ -8,9 +8,6 @@ import com.google.maps.android.clustering.ClusterItem;
 import com.google.maps.android.clustering.ClusterManager;
 import com.google.maps.android.clustering.view.DefaultClusterRenderer;
 
-/**
- * Created by hrishi on 12/11/16.
- */
 class CustomRenderer<T extends ClusterItem> extends DefaultClusterRenderer<T>
 {
     public CustomRenderer(Context context, GoogleMap map, ClusterManager<T> clusterManager) {

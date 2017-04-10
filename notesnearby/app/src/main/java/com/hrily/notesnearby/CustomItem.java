@@ -1,7 +1,4 @@
 package com.hrily.notesnearby;
-//////////////
-// by hrily //
-//////////////
 
 public class CustomItem {
 

@@ -1,7 +1,4 @@
 package com.hrily.notesnearby;
-//////////////
-// by hrily //
-//////////////
 
 import java.util.List;
 import android.app.Activity;
@@ -13,9 +10,6 @@ import android.widget.ArrayAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-/**
- * Created by hrishi on 9/10/16.
- */
 
 public class CustomAdapter extends ArrayAdapter<CustomItem> {
 
